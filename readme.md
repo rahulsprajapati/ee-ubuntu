@@ -9,4 +9,4 @@ docker run -it -p 80:80 -p 22222:22222 -p 3306:3306 -p 443:443 --name=ee-contain
 
 # To check on browser go to URL 
 
-# http://{container_ip}
+http://{container_ip}
